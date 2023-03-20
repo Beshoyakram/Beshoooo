@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/beshoy-akram-15b493158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beshoyakram92@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/beshoy-akram-15b493158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beshoyakram92@gmail.com" height="30" width="40" /></a>
 <a href="https://www.facebook.com/beshoy.beshoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="beshoyakram92@gmail.com" height="30" width="40" /></a>
 <a href="https://www.instagram.com/beshoy__akram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beshoyakram92@gmail.com" height="30" width="40" /></a>
 </p>
