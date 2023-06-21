@@ -1,6 +1,8 @@
+<h1 align="center">Hi 👋, I'm Beshoy Akram</h1>
+
 <div style="margin:auto;text-align:center;background-color:red"><img src="https://miro.medium.com/max/1400/1*yw0TnheAGN-LPneDaTlaxw.gif" width="100%" /></div>
 
-<h1 align="center">Hi 👋, I'm Beshoy Akram</h1>
+
 <h3 align="center">A passionate Full-stack developer from Egypt</h3>
 
 
